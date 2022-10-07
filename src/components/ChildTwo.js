@@ -4,7 +4,7 @@ const ChildTwo= () => {
     return (
         <div>
             
-      child2
+      
         </div>
     );
 };
